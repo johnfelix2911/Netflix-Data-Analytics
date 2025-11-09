@@ -4,9 +4,9 @@ Provided strategic and actionable insights to give Netflix a competitive edge ov
 
 ## Datasets
 
-The raw datasets that were used in this project are as follows:
-Netflix Movies and TV Shows - https://www.kaggle.com/datasets/shivamb/netflix-shows/data
-Netflix Movies and TV Shows (updated 2025) - https://www.kaggle.com/datasets/bhargavchirumamilla/netflix-movies-and-tv-shows-till-2025
+The raw datasets that were used in this project are as follows: \\
+Netflix Movies and TV Shows - https://www.kaggle.com/datasets/shivamb/netflix-shows/data \\
+Netflix Movies and TV Shows (updated 2025) - https://www.kaggle.com/datasets/bhargavchirumamilla/netflix-movies-and-tv-shows-till-2025 \\
 Netflix Prize Dataset - https://www.kaggle.com/netflix-inc/netflix-prize-data
 IMDb Dataset - https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset
 The Movies Dataset - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
