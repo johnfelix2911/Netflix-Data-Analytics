@@ -19,19 +19,19 @@ John Felix
 [@johnfelix2911](https://github.com/johnfelix2911)  
 
 Daksh Jogchand
-[dakshj17](https://github.com/dakshj17)  
+[@dakshj17](https://github.com/dakshj17)  
 
 Anjali Deepu
-[Anj888](https://github.com/Anj888)  
+[@Anj888](https://github.com/Anj888)  
 
 Sourendra Nandi
-[Sourendra-Shinobi](https://github.com/Sourendra-Shinobi)  
+[@Sourendra-Shinobi](https://github.com/Sourendra-Shinobi)  
 
 Aditya Singh Bisht
-[AdityaSinghBisht100](https://github.com/AdityaSinghBisht100)  
+[@AdityaSinghBisht100](https://github.com/AdityaSinghBisht100)  
 
 Taniya Das
-[Taniya2711](https://github.com/Taniya2711)  
+[@Taniya2711](https://github.com/Taniya2711)  
 
 ## License
 
