@@ -15,22 +15,22 @@ The Movies Dataset - https://www.kaggle.com/datasets/rounakbanik/the-movies-data
 
 Contributors names and contact info
 
-John Felix  
+John Felix
 [@johnfelix2911](https://github.com/johnfelix2911)  
 
-Daksh Jogchand  
+Daksh Jogchand
 [dakshj17](https://github.com/dakshj17)  
 
-Anjali Deepu  
+Anjali Deepu
 [Anj888](https://github.com/Anj888)  
 
-Sourendra Nandi  
+Sourendra Nandi
 [Sourendra-Shinobi](https://github.com/Sourendra-Shinobi)  
 
-Aditya Singh Bisht  
+Aditya Singh Bisht
 [AdityaSinghBisht100](https://github.com/AdityaSinghBisht100)  
 
-Taniya Das  
+Taniya Das
 [Taniya2711](https://github.com/Taniya2711)  
 
 ## License
